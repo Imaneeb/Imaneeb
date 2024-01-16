@@ -1,4 +1,4 @@
- Salam , I’m @Imaneeb. Marhaba !
+ Salam , I’m @Imaneeb !
 
 <!---
 Imaneeb/Imaneeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
